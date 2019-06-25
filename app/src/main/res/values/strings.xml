@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">cuisineApp</string>
     <string name="btnResult">show receipts</string>
+    <string name="btnShow">show</string>
 </resources>
