@@ -8,7 +8,7 @@
             android:layout_height="20dp" tools:layout_editor_absoluteY="15dp"
             tools:layout_editor_absoluteX="16dp" android:id="@+id/ui_textReceipts" tools:text="name of receipts"/>
     <Button
-            android:text="@strings/"
+            android:text=""
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" tools:layout_editor_absoluteY="15dp"
             tools:layout_editor_absoluteX="306dp" android:id="@+id/ui_show"/>
