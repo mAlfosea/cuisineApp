@@ -51,7 +51,7 @@ class RecipeAdapter(var recipes: Array<Recipe>): RecyclerView.Adapter<RecipeAdap
                 itemView.recipeImage.setImageResource(idRes)
 
                 itemView.setOnClickListener {
-                    itemView.context.startActivity<RecipeDetail>("id" to recipe)
+                    itemView.context.startActivity<RecipeDetail>("id" to recipe.recipe_id)
                 }
 
 
