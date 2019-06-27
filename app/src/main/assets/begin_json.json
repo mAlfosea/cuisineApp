@@ -1,10 +1,10 @@
 [
   {
     "recipe_id": 1,
-    "recipe_name": "Crèpes chocolat",
+    "recipe_name": "Crèpes",
     "recipe_description": "Idéale pour la chandeleur",
     "recipe_duration": "15",
-    "recipe_picture": "https://www.atelierdeschefs.com/media/recette-e16580-crepes-faciles-au-chocolat.jpg",
+    "recipe_picture": "a.jpg",
     "recipe_steps": [
       "1",
       "2",
@@ -32,10 +32,10 @@
   },
   {
     "recipe_id": 2,
-    "recipe_name": "Pizza",
-    "recipe_description": "Une bonne pizza pour 4 personnes",
+    "recipe_name": "Gâteau au chocolat",
+    "recipe_description": "Genre, t'as besoin d'une description pour comprendre ?",
     "recipe_duration": "25",
-    "recipe_picture": "",
+    "recipe_picture": "b.jpg",
     "recipe_steps": [
       "1",
       "2",
@@ -57,10 +57,90 @@
   },
   {
     "recipe_id": 3,
-    "recipe_name": "Pain perdu",
-    "recipe_description": "Pour le matin",
+    "recipe_name": "Tarte",
+    "recipe_description": "Pas tatin",
     "recipe_duration": "10",
-    "recipe_picture": "",
+    "recipe_picture": "c.jpg",
+    "recipe_steps": [
+      "1",
+      "2",
+      "3"
+    ],
+    "recipe_ingredients": [
+      "Pain",
+      "Oeuf",
+      "Sucre",
+      "Bananes",
+      "Nems au porc"
+    ],
+    "recipe_requirements": [
+      "blender",
+      "camion citerne",
+      "Mona Lisa"
+    ]
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Dark crèpes",
+    "recipe_description": "Des cercles noirs comme le trou béant dans ton âme",
+    "recipe_duration": "5",
+    "recipe_picture": "d.jpg",
+    "recipe_steps": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "recipe_ingredients": [
+      "150 g farine",
+      "20 g de beurre fondu",
+      "3 dl lait",
+      "2 oeufs",
+      "200 g de chocolat noir",
+      "4 c. à soupe de crème fraîche",
+      "40 g de sucre"
+    ],
+    "recipe_requirements": [
+      "blender",
+      "large saucepan"
+    ]
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Dark Chocolate Cake",
+    "recipe_description": "Aussi noir que mon âme",
+    "recipe_duration": "3",
+    "recipe_picture": "e.jpg",
+    "recipe_steps": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "recipe_ingredients": [
+      "Farine",
+      "Sauce Tomate",
+      "Mozzarella",
+      "Prociutto",
+      "Olives noires"
+    ],
+    "recipe_requirements": [
+      "four à pizza",
+      "plateau à pizza"
+    ]
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Dark Tarte",
+    "recipe_description": "Pour le dernier de tes repas",
+    "recipe_duration": "1",
+    "recipe_picture": "f.jpg",
     "recipe_steps": [
       "1",
       "2",
