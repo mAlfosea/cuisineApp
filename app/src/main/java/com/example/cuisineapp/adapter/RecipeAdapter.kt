@@ -5,11 +5,12 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.cuisineapp.R
+import kotlinx.android.synthetic.main.cellview.view.*
 import kotlinx.android.synthetic.main.item_recipe.view.*
 
 class RecipeAdapter(var recipes: List<Int>): RecyclerView.Adapter<RecipeAdapter.ViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val lineView = LayoutInflater.from(parent.context).inflate(R.layout.item_recipe, parent, false)
+        val lineView = LayoutInflater.from(parent.context).inflate(R.layout.cellview, parent, false)
         return ViewHolder(lineView)
     }
 
@@ -23,7 +24,7 @@ class RecipeAdapter(var recipes: List<Int>): RecyclerView.Adapter<RecipeAdapter.
 
     class ViewHolder (var view: View): RecyclerView.ViewHolder(view) {
         fun bindRecipe(recipe: Int) {
-            itemView.numberText.text = recipe.toString()
+            itemView.recipeText.text = recipe.toString()
         }
     }
 }
