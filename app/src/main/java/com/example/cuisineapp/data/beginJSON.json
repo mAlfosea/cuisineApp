@@ -1,0 +1,65 @@
+[
+  {
+    "RecipeId": 1,
+    "RecipeName": "Crèpes chocolat",
+    "RecipeResume": "Idéale pour la chandeleur",
+    "RecipeDuration": "15",
+    "RecipeImageUrl": "https://www.atelierdeschefs.com/media/recette-e16580-crepes-faciles-au-chocolat.jpg",
+    "RecipeSteps": [
+      "1 Sortez le beurre du réfrigérateur et laissez-le ramollir, dans un ramequin, à température ambiante.",
+      "2 Coupez le chocolat noir en petits morceaux et réservez-les dans un bol.",
+      "3 Préparez la pâte à crêpe dans un saladier et mélangez grossièrement la farine et le sel.",
+      "4 Creusez un puits et ajoutez les œufs entiers battus au centre, la totalité du lait petit à petit puis le beurre fondu. Mélangez bien à l’aide d’un fouet jusqu’à ce que vous obteniez une pâte à crêpe bien liquide. Couvrez et laissez reposer 1 heure au frais.",
+      "5 Avant de faire cuire les crêpes, vérifiez que la pâte ne présente pas de grumeaux à la surface. Si ce n’est pas le cas, fouettez-la à nouveau durant 1 à 3 min.",
+      "6 Ensuite, faites chauffer votre crêpière, graissez-la avec un râteau à crêpe en bois et faites-y cuire vos crêpes une par une. Attendez que les bords se décollent tous seuls pour la retourner ou la faire sauter afin de bien colorer les deux faces.",
+      "7 Laissez tiédir quelques minutes, en les superposant dans un grand plat, avant de déguster vos crêpes sans gluten.",
+      "8 Dans une casserole au bain-marie, faites fondre le chocolat en morceaux tout en mélangeant avec le sucre ainsi que 2 c. à soupe d’eau et la crème fraîche. Réservez votre sauce chocolat dans une saucière. Tant qu’elle est encore bien chaude, garnissez-en les crêpes et roulez les crêpes. Vous pouvez également les napper.",
+      "9 Servez immédiatement vos crêpes à la sauce chocolat pour le dessert ou pour un goûter gourmand  !"
+    ],
+    "RecipeIngredients": [
+      "150 g farine",
+      "20 g de beurre fondu",
+      "3 dl lait",
+      "2 oeufs",
+      "200 g de chocolat noir",
+      "4 c. à soupe de crème fraîche",
+      "40 g de sucre"
+    ],
+    "RecipeRequirements": [
+      "blender",
+      "large saucepan"
+    ]
+  },
+  {
+    "RecipeId": 2,
+    "RecipeName": "Crèpes chocolat2",
+    "RecipeResume": "Idéale pour la chandeleur",
+    "RecipeDuration": "15",
+    "RecipeImageUrl": "https://www.atelierdeschefs.com/media/recette-e16580-crepes-faciles-au-chocolat.jpg",
+    "RecipeSteps": [
+      "1 Sortez le beurre du réfrigérateur et laissez-le ramollir, dans un ramequin, à température ambiante.",
+      "2 Coupez le chocolat noir en petits morceaux et réservez-les dans un bol.",
+      "3 Préparez la pâte à crêpe dans un saladier et mélangez grossièrement la farine et le sel.",
+      "4 Creusez un puits et ajoutez les œufs entiers battus au centre, la totalité du lait petit à petit puis le beurre fondu. Mélangez bien à l’aide d’un fouet jusqu’à ce que vous obteniez une pâte à crêpe bien liquide. Couvrez et laissez reposer 1 heure au frais.",
+      "5 Avant de faire cuire les crêpes, vérifiez que la pâte ne présente pas de grumeaux à la surface. Si ce n’est pas le cas, fouettez-la à nouveau durant 1 à 3 min.",
+      "6 Ensuite, faites chauffer votre crêpière, graissez-la avec un râteau à crêpe en bois et faites-y cuire vos crêpes une par une. Attendez que les bords se décollent tous seuls pour la retourner ou la faire sauter afin de bien colorer les deux faces.",
+      "7 Laissez tiédir quelques minutes, en les superposant dans un grand plat, avant de déguster vos crêpes sans gluten.",
+      "8 Dans une casserole au bain-marie, faites fondre le chocolat en morceaux tout en mélangeant avec le sucre ainsi que 2 c. à soupe d’eau et la crème fraîche. Réservez votre sauce chocolat dans une saucière. Tant qu’elle est encore bien chaude, garnissez-en les crêpes et roulez les crêpes. Vous pouvez également les napper.",
+      "9 Servez immédiatement vos crêpes à la sauce chocolat pour le dessert ou pour un goûter gourmand  !"
+    ],
+    "RecipeIngredients": [
+      "150 g farine",
+      "20 g de beurre fondu",
+      "3 dl lait",
+      "2 oeufs",
+      "200 g de chocolat noir",
+      "4 c. à soupe de crème fraîche",
+      "40 g de sucre"
+    ],
+    "RecipeRequirements": [
+      "blender",
+      "large saucepan"
+    ]
+  }
+
+]

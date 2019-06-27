@@ -1,0 +1,82 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Crèpes chocolat",
+    "recipe_description": "Idéale pour la chandeleur",
+    "recipe_duration": "15",
+    "recipe_picture": "https://www.atelierdeschefs.com/media/recette-e16580-crepes-faciles-au-chocolat.jpg",
+    "recipe_steps": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "recipe_ingredients": [
+      "150 g farine",
+      "20 g de beurre fondu",
+      "3 dl lait",
+      "2 oeufs",
+      "200 g de chocolat noir",
+      "4 c. à soupe de crème fraîche",
+      "40 g de sucre"
+    ],
+    "recipe_requirements": [
+      "blender",
+      "large saucepan"
+    ]
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Pizza",
+    "recipe_description": "Une bonne pizza pour 4 personnes",
+    "recipe_duration": "25",
+    "recipe_picture": "",
+    "recipe_steps": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "recipe_ingredients": [
+      "Farine",
+      "Sauce Tomate",
+      "Mozzarella",
+      "Prociutto",
+      "Olives noires"
+    ],
+    "recipe_requirements": [
+      "four à pizza",
+      "plateau à pizza"
+    ]
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Pain perdu",
+    "recipe_description": "Pour le matin",
+    "recipe_duration": "10",
+    "recipe_picture": "",
+    "recipe_steps": [
+      "1",
+      "2",
+      "3"
+    ],
+    "recipe_ingredients": [
+      "Pain",
+      "Oeuf",
+      "Sucre",
+      "Bananes",
+      "Nems au porc"
+    ],
+    "recipe_requirements": [
+      "blender",
+      "camion citerne",
+      "Mona Lisa"
+    ]
+  }
+]
