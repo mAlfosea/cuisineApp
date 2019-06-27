@@ -3,7 +3,6 @@ package com.example.cuisineapp.homePage
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.GridLayoutManager
-import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.cuisineapp.R
 import com.example.cuisineapp.adapter.RecipeAdapter
 import kotlinx.android.synthetic.main.activity_show_all_recipes.*
