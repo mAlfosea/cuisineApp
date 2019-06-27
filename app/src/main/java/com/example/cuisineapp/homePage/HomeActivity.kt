@@ -17,5 +17,10 @@ class HomeActivity : AppCompatActivity() {
 
         ui_viewResult.layoutManager = GridLayoutManager(this, 3)
         ui_viewResult.adapter = RecipeAdapter(recipeList)
+
+
+
+
+
     }
 }

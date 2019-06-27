@@ -10,11 +10,6 @@ class RecipeDetail : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView (R.layout.activity_recipe_detail)
-
-        var intent = Intent(this, RecipeDetail::class.java)
-       // var name = findViewById<TextView>("+id/receipeText")
-       // getExtraData()
-
     }
 
 
